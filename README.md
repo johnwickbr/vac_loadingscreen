@@ -5,9 +5,7 @@ Fivem Loadingscreen / dev9
 
 Thanks for downloading
 
-Don't edit the
-<footer>https://github.com/agrovac</footer>
-line.
+<h1>How do install?</h1>
 
 Any problems? 
 Contact me at
