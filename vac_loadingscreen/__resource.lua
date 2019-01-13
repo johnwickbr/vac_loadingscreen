@@ -1,5 +1,5 @@
 loadscreen 'index.html'
-description 'Loadingscreen By Vac'
+description 'Loadingscreen av LilV/Vac'
 version '1.0.0'
 
 files {
